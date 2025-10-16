@@ -40,6 +40,6 @@ form.addEventListener("submit", e => {
     return
   }
 
-  alert("Endereço cadastrado com sucesso")
+  alert("Endereço cadastrado com sucesso!")
   form.reset()
 })
